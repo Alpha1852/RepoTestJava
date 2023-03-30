@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f4af1f2-a5fb-427f-b379-2747c222fabd" name="Changes" comment="Commit 1: FIZZ BUZZ" />
+    <list default="true" id="6f4af1f2-a5fb-427f-b379-2747c222fabd" name="Changes" comment="Commit 1: FIZZ BUZZ vhjghj">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="51b441bd-797c-4f81-be60-6e2943a84ffe" />
+        <option name="url" value="https://github.com/Alpha1852/DemotestJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,11 +67,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680182796731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 1: FIZZ BUZZ vhjghj">
+      <created>1680183377843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680183377843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1: FIZZ BUZZ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1: FIZZ BUZZ" />
+    <MESSAGE value="Commit 1: FIZZ BUZZ vhjghj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1: FIZZ BUZZ vhjghj" />
   </component>
 </project>
